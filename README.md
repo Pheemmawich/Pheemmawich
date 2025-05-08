@@ -1,4 +1,4 @@
-<h1 align="center">About Me</h1>
+<h1 >About Me</h1>
 <p>👋 Hi! I’m a civil engineer turned full-stack developer who’s fallen in love with code (and bugs... sometimes). With a strong foundation in HTML, CSS, JavaScript, and RESTful APIs, I’ve built real-world projects like Prescripto, Medilink, and Creative Recipe using tools like React, Node.js, Express, MySQL, and MongoDB. I enjoy making things work beautifully — whether it’s connecting to Stripe, uploading to Cloudinary, or crafting responsive UI. Switching careers wasn’t easy, but it was exciting. I bring with me a problem-solving mindset from engineering, a can-do attitude, and a love for learning. Always happy to collaborate, debug, or just share nerdy memes. 🚀 Ready to join a team, contribute, and grow. And yes — I’m available to start right away!</p>
 
 - 🔭 I’m currently working on **E-Commerce**
