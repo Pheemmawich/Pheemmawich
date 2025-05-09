@@ -1,7 +1,5 @@
 <h1 >About Me</h1>
 <p>👋 Hi! I’m a civil engineer turned full-stack developer who’s fallen in love with code (and bugs... sometimes). With a strong foundation in HTML, CSS, JavaScript, and RESTful APIs, I’ve built real-world projects like Prescripto, Medilink, and Creative Recipe using tools like React, Node.js, Express, MySQL, and MongoDB.
-  <br>
-  
 I enjoy making things work beautifully — whether it’s connecting to Stripe, uploading to Cloudinary, or crafting responsive UI. Lately, I’ve also been leveraging AI tools to speed up development, explore better solutions, and keep learning faster.
   <br>
   
